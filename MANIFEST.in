@@ -1,3 +1,0 @@
-include *.txt
-recursive-include examples *.rst *.py
-recursive-include pyduofern/tests/ duofern*
